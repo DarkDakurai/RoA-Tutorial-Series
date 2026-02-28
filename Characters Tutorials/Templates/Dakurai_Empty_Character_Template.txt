@@ -1,0 +1,10 @@
+This is an edited version of the empty character template that can be found on the official RoA manual webpage.
+
+It adds a bunch of extra scripts which aren't present by default such as hit_player.gml, it also includes certain pre built structures for standard workshop additoins:
+- colormap template by Dakurai
+- quick attack scripts by Bar-Kun
+- window_end by Bar-Kun
+- standard attack_update.gml structure and functions by Dakurai
+- spawn_base_dust(...) by Supersonic
+- basic Dakurai CSS by Dakurai
+- standard Dakurai set_attack.gml by Dakurai
