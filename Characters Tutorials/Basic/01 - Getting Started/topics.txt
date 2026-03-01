@@ -1,0 +1,8 @@
+- quick introduction to workshop
+- the local ws folder
+- differences between local and online folders
+- gmedit setup
+- gmedit dialect
+- vscode setup
+- vscode dialect
+- character folder structure

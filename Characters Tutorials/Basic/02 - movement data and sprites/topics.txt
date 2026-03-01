@@ -1,0 +1,4 @@
+- init script explanation
+- detailing and demonstration of each basic character property (what changing each does and what they are for)
+- character animation list
+- details regarding movement animations (framerate, frame distribution etc)
