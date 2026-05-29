@@ -1,0 +1,45 @@
+**Basic attacks, window and hitboxes**
+	- What is an attack
+		- An attack is a state
+		- Sprite Strip
+			- Animation Frames
+		- Windows
+		- Hitboxes
+		- Hurtboxes
+			- Disjoints
+		- set_attack_value( attack, index, value )
+	- Windows
+		- Startup, Active, Endlag concept
+		- set_window_value( attack, window, index, value )
+		- Animation
+			- how the animation is displayed
+		- Window Type
+		- Movement (Hsp and Vsp)
+			- coordinate system
+		- SFX
+		- Cancels
+		- AG_STRONG_CHARGE_WINDOW property
+	- Hitboxes
+		- set_hitbox_value( attack, hitbox_num, index, value )
+		- Hitbox type
+			- Projectile
+			- Melee
+		- Hitbox groups
+		- Window and Creation Frame, Lifetime
+		- Shapes and sizes
+		- Damage
+			- Effects
+		- Knockback
+			- Base KB
+			- Scaling KB
+		- Hitstun, Hitpause, DI, SDI
+		- How to do sweetspots
+			- Priority
+		- VFX/Hit effects
+		- Projectile specific stuff
+			- Sprite vs mask vs collision sprite
+				- Anim speed
+			- Speed, Gravity, Friction
+			- Wall/Enemy/ground Behaviours
+			- Transcendance + parry’s ownership change
+			- Bash + Plasma

@@ -1,0 +1,27 @@
+**Character basics and setting up movement**
+	- Components of a character
+		- Sprites
+		- Scripts
+			- Attack folder
+		- Sounds
+	- Config.ini
+		- Name, Desc, Author
+		- What is an URL
+		- Info boxes
+		- small_sprites
+	- Load.gml
+		- Offsets
+	- Init.gml
+		- Character height and weight
+		- Hurtboxes
+			- Region where you can be hurt
+			- Drawn by silhouette of characters
+		- Ground Movement (Walk/Dash)
+		- Aerial Movement/Jumps
+		- Parry button actions (rolls, Airdodges, waveland, techroll)
+		- Animation variables
+			- Basic Animation list
+			- Wait animations
+		- Win screens/Victory themes
+		- SFX
+		- Custom Variables for your character
