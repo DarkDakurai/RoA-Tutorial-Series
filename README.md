@@ -3,6 +3,8 @@ In here you'll be able to find scripts, course material and other miscellanous u
 
 also consider joinin [the Extended Workshop server](https://discord.gg/rp6Ce66mGc) for live support
 
+you can find the unofficial workshop manual right [here](https://rivalswsmanual.miraheze.org/wiki/Main_Page)
+
 ## Here's a quick map of what you'll find here
 Each individual lesson will have its own folder containing the breakdown of the tackled topics, a direct link to its YouTube Video and any specific course material that's shown and used so that it can be viewed by the students
 
