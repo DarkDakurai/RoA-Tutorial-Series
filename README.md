@@ -63,7 +63,6 @@ Basics (ideally without major necessity of direct coding)
 - basic attacks, windows and hitboxes/projectiles
 - roa colors.gml website and how to set up alt colors
 - how to add character compatibilities to your character
-- standard workshop code practices
 - how to upload and publish your workshop item
 
 Design
@@ -77,6 +76,7 @@ Design
 
 Intermediate (stuff you see on average characters that requires code)
 - rivals gml, language overview
+- standard workshop code practices
 - hit effects, Colormapping and other basic visual things
 - what is an article (includes solid and plat info)
 - setting up basic article behaviour (state machine)
