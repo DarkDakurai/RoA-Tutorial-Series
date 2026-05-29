@@ -1,5 +1,8 @@
 **Getting started**
-	- Introduction to mods
+	- Introduction to the tutorial series
+		- what is it about
+		- what will it tackle
+		- who is it for
 	- File locations
 		- Local vs Steam
 		- Rules of file structure
@@ -17,3 +20,5 @@
 		- Match setting (enable workshop)
 		- Reloading
 			- F5 vs Reselect vs Reboot
+
+[video]()

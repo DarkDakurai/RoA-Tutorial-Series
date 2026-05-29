@@ -43,3 +43,5 @@
 			- Wall/Enemy/ground Behaviours
 			- Transcendance + parry’s ownership change
 			- Bash + Plasma
+
+[video]()

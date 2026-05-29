@@ -8,7 +8,9 @@
 		- Warning to 26,26,26 black
 		- Hue shift problems
 	- Alt palettes
-		- website
+		- [website](https://cl-9a.github.io/RoAColorsGmlHelper/)
 		- How to create an alt palette
 		- Number of alts
 	- Briefly tap into colormapping
+
+[video]()
