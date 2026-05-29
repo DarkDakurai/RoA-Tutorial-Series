@@ -1,6 +1,8 @@
 # Welcome to the Workshop Tutorial series repository
 In here you'll be able to find scripts, course material and other miscellanous useful things to better kickstart your workshop journey, don't forget to check out the series on [VVizard's channel](https://www.youtube.com/@VVizardWS)
 
+also consider joinin [the Extended Workshop server](https://discord.gg/rp6Ce66mGc) for live support
+
 ## Here's a quick map of what you'll find here
 Each individual lesson will have its own folder containing the breakdown of the tackled topics, a direct link to its YouTube Video and any specific course material that's shown and used so that it can be viewed by the students
 
