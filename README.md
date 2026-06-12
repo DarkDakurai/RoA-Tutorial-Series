@@ -1,6 +1,6 @@
 # Welcome to the Workshop Tutorial series repository
 
-![alt text](tutorial_logo_1b.png "Title")
+![alt text](tutorial_logo_1b.png =250x)
 
 In here you'll be able to find scripts, course material and other miscellanous useful things to better kickstart your workshop journey, don't forget to check out the series on [VVizard's channel](https://www.youtube.com/@VVizardWS)
 
@@ -188,4 +188,4 @@ advanced basecast skins
 - messing around with advanced skins
 - basecast oPlayers, an in depth analysis
 
-![alt text](tutorial_logo_3.png "Title")
+![alt text](tutorial_logo_3.png =100x)
