@@ -1,4 +1,7 @@
 # Welcome to the Workshop Tutorial series repository
+
+![alt text](tutorial_logo_1b.png "Title")
+
 In here you'll be able to find scripts, course material and other miscellanous useful things to better kickstart your workshop journey, don't forget to check out the series on [VVizard's channel](https://www.youtube.com/@VVizardWS)
 
 also consider joinin [the Extended Workshop server](https://discord.gg/rp6Ce66mGc) for live support
