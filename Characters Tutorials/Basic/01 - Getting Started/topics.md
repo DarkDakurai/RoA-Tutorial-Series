@@ -21,4 +21,4 @@
 		- Reloading
 			- F5 vs Reselect vs Reboot
 
-[video]()
+[video](https://www.youtube.com/watch?v=zKuZ_f5F82A)
