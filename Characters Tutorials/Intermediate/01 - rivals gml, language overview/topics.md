@@ -1,27 +1,33 @@
 **rivals gml, language overview**
-	- manuals
-		- official workshop manual
-		- unofficial workshop manual
-		- gml manual
-		- book
+	- comments (//,/**/)
+	- variables
+		- temp variables
+    - math operators (+,-,/,*,%)
+    - logic operators (&&,||,!,^^,>,<,>=,<=)
     - data types
         - real
         - boolean
         - string
             - string types "",'',``
-        - array
+        - arrays
+			- arrays are pointers
         - struct
         - ds_list
         - ds_map
+		- type conversion
+    - bitwise operators (&,|,!,^,<<,>>)
     - statements
         - conditional
             - if
             - else
+            - ternary operators (condition? iftrue: iffalse)
         - loops
             - for
             - while
             - repeat
     - functions
+      - gml
+        - math functions
       - base game
       - custom
     - objects
@@ -30,11 +36,21 @@
         - articles
         - solids
         - jumpthroughs
+	- creating objects
+	- variables related to objects
+		- objects are basically fancy structs
+		- in statement
+	- destroying objects
+		- asset_murder
     - scripts
         - logic scripts
         - draw scripts
     - with statement
-      - other macro
-    - exit statement
+    	- other macro
+	- macros
+		- object parent macros
+		- other macros/constants
+		- custom macros
+	- exit statement
 
 [video]()
