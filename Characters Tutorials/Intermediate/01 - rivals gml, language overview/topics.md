@@ -1,4 +1,9 @@
 **rivals gml, language overview**
+	- manuals
+		- official workshop manual
+		- unofficial workshop manual
+		- gml manual
+		- book
     - data types
         - real
         - boolean
