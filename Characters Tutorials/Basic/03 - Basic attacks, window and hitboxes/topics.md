@@ -44,4 +44,4 @@
 			- Transcendance + parry’s ownership change
 			- Bash + Plasma
 
-[video]()
+[video](https://www.youtube.com/watch?v=Wfc8wD6B168)

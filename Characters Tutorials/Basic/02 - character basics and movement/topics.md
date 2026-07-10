@@ -26,4 +26,4 @@
 		- SFX
 		- Custom Variables for your character
 
-[video]()
+[video](https://www.youtube.com/watch?v=TPva8avlC-0)
