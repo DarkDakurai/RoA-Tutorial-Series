@@ -3,7 +3,7 @@
 	- variables
 		- temp variables
     - math operators (+,-,/,*,%)
-    - logic operators (&&,||,!,^^,>,<,>=,<=)
+    - logic operators (&&,||,!,^^,>,<,>=,<=,==)
     - data types
         - real
         - boolean
@@ -15,12 +15,13 @@
         - ds_list
         - ds_map
 		- type conversion
-    - bitwise operators (&,|,!,^,<<,>>)
+    - bitwise operators (&,|,~,^,<<,>>)
     - statements
         - conditional
             - if
             - else
             - ternary operators (condition? iftrue: iffalse)
+	    - switch
         - loops
             - for
             - while
@@ -30,6 +31,8 @@
         - math functions
       - base game
       - custom
+    - scope
+      - local variables
     - objects
         - noone
         - oPlayer
