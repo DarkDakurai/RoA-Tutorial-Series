@@ -89,15 +89,16 @@ Intermediate (stuff you see on average characters that requires code)
 - synced var and CSS interaction
 - init shader and color shenanigans
 - object depth and visuals layer handling
-- basic character AI (Karu AI)
+- basic character AI (Karu AI, if in range, do attack)
 - make basic compatibilities for your character (sprites, text etc)
 - how to make character skins, basic skin handler
 - ways of making status effects (array method, other init method, other init with applier method)
 - stage music override
 - how to code an install
-- how to code command grabs (dakurai method, the forced hitstun method, the old wrapped method)
+- how to code command grabs (dakurai method, the forced hitstop method, the old wrapped method and why it was awful)
 - how to make custom hud graphics
 - how to code a meter
+- how to code a chargeable attack
 - runes and how to use them
 - dust FX and making custom dust
 
