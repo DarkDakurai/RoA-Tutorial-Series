@@ -83,6 +83,7 @@ Intermediate (stuff you see on average characters that requires code)
 - hit effects, Colormapping and other basic visual things
 - what is an article (includes solid and plat info)
 - setting up basic article behaviour (state machine)
+- common references to other workshop objects (and how to use them)
 - hitbox update and hitbox behaviour
 - collisions and other interactions (and velocity shenanigans, including old speeds with hitpause)
 - standard CSS visuals (name, base sprite etc)
