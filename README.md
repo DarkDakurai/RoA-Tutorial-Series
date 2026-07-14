@@ -85,6 +85,7 @@ Intermediate (stuff you see on average characters that requires code)
 - setting up basic article behaviour (state machine)
 - common references to other workshop objects (and how to use them)
 - hitbox update and hitbox behaviour
+- hitboxes tied to articles, general hitbox control
 - collisions and other interactions (and velocity shenanigans, including old speeds with hitpause)
 - standard CSS visuals (name, base sprite etc)
 - synced var and CSS interaction
@@ -95,12 +96,14 @@ Intermediate (stuff you see on average characters that requires code)
 - how to make character skins, basic skin handler
 - ways of making status effects (array method, other init method, other init with applier method)
 - stage music override
-- how to code an install
-- how to code command grabs (dakurai method, the forced hitstop method, the old wrapped method and why it was awful)
 - how to make custom hud graphics
 - how to code a meter
+- how to code an install/stances
+- how to code command grabs (dakurai method, the forced hitstop method, the old wrapped method and why it was awful)
 - how to code a chargeable attack
 - how to code a peach float
+- how to code homing and soft homing projectiles
+- how to code a multi hitting projectile
 - runes and how to use them
 - dust FX and making custom dust
 
@@ -124,6 +127,7 @@ Advanced (the secret knowledge to crack rivals open)
 - win screen, in depth structure analysis and how to make a custom win screen
 - advanced compatibility for your character (events handling and other custom behaviour)
 - how to make or improve visual effects with code (primitives, blendmodes, masking, GPU fog, sprite manipulation)
+- how to code a reflector and why it sucks
 - stance changing (pythra like or between different oplayer objects)
 - how to make a 2d rig for coded animation (with ik and fk notions)
 - handle outside logic in dittos (port priority based logic handling)
