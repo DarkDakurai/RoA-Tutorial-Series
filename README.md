@@ -100,6 +100,7 @@ Intermediate (stuff you see on average characters that requires code)
 - how to make custom hud graphics
 - how to code a meter
 - how to code a chargeable attack
+- how to code a peach float
 - runes and how to use them
 - dust FX and making custom dust
 
