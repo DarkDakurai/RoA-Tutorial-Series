@@ -1,0 +1,11 @@
+**standard css visuals**
+  - config.ini's custom bg color setting
+  - css scripts
+    - init
+    - update
+    - draw
+  - warning about css layouts and potential obstruction of text and buttons (abyss, team, online)
+  - displaying text
+  - displaying sprites
+    - using init_shader()
+  - changing displayed stuff based on alts
