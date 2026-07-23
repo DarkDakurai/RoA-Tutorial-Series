@@ -85,8 +85,7 @@ Intermediate (stuff you see on average characters that requires code)
 - setting up basic article behaviour (state machine)
 - common references to other workshop objects (and how to use them)
 - hitbox update and hitbox behaviour
-- hitboxes tied to articles, general hitbox control
-- collisions and other interactions (and velocity shenanigans, including old speeds with hitpause)
+- speeds and how the game handles them
 - standard CSS visuals (name, base sprite etc)
 - synced var and CSS interaction
 - init shader and color shenanigans
